@@ -1,0 +1,87 @@
+{
+  "kind": "ranking",
+  "kicker": "GoalFi Research · Small caps · 2 / 3",
+  "title": "Top 10 small-cap funds by return",
+  "subtitle": "Returns from 1 Jan to 25 Sep 2026 (direct plans)",
+  "value_header": "Return in 2026",
+  "tag_header": "Fund size (Aug 2026)",
+  "rows": [
+    {
+      "logo": "assets/amc_logos/bank_of_india_mutual_fund_badge.png",
+      "name": "Bank of India Mutual Fund",
+      "value": 32.25,
+      "tag": 3308.0
+    },
+    {
+      "logo": "assets/amc_logos/groww_mutual_fund_badge.png",
+      "name": "Groww Mutual Fund",
+      "value": 29.87,
+      "tag": 764.03,
+      "mark": "*"
+    },
+    {
+      "logo": "assets/amc_logos/samco_mutual_fund_badge.png",
+      "name": "Samco Mutual Fund",
+      "value": 28.32,
+      "tag": 196.49
+    },
+    {
+      "logo": "assets/amc_logos/trust_mutual_fund_badge.png",
+      "name": "Trust Mutual Fund",
+      "value": 28.05,
+      "tag": 3440.8
+    },
+    {
+      "logo": "assets/amc_logos/abakkus_mutual_fund_badge.png",
+      "name": "Abakkus Mutual Fund",
+      "value": 25.44,
+      "tag": 2794.55,
+      "mark": "*"
+    },
+    {
+      "logo": "assets/amc_logos/union_mutual_fund_badge.png",
+      "name": "Union Mutual Fund",
+      "value": 24.12,
+      "tag": 2667.44
+    },
+    {
+      "logo": "assets/amc_logos/iti_mutual_fund_badge.png",
+      "name": "ITI Mutual Fund",
+      "value": 22.75,
+      "tag": 3602.81
+    },
+    {
+      "logo": "assets/amc_logos/motilal_oswal_mutual_fund_badge.png",
+      "name": "Motilal Oswal Mutual Fund",
+      "value": 22.11,
+      "tag": 8152.32
+    },
+    {
+      "logo": "assets/amc_logos/lic_mutual_fund_badge.png",
+      "name": "LIC Mutual Fund",
+      "value": 21.25,
+      "tag": 831.61
+    },
+    {
+      "logo": "assets/amc_logos/jm_financial_mutual_fund_badge.png",
+      "name": "JM Financial Mutual Fund",
+      "value": 21.13,
+      "tag": 929.5
+    }
+  ],
+  "format": {
+    "suffix": "%",
+    "decimals": 2,
+    "signed": true
+  },
+  "tag_format": {
+    "prefix": "₹",
+    "suffix": " Cr",
+    "decimals": 0
+  },
+  "tag_color": "#33507D",
+  "bar_color": "#16A34A",
+  "note": "All 36 small-cap funds made money this year.\n* Started in 2026, so the return is counted from launch (Groww: 2 Feb, Abakkus: 20 Mar).",
+  "footer": "Source: AMFI NAV data and fund portfolio disclosures · GoalFi analysis",
+  "name_header": "FUND"
+}

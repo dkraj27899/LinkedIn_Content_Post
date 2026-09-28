@@ -1,0 +1,26 @@
+{
+  "kind": "cover",
+  "kicker": "GoalFi Research · Small-cap funds · 2026",
+  "title": "The best small-cap\nfunds aren't\nthe biggest.",
+  "subtitle": "We ranked all 36 small-cap funds by their 2026\nreturns and by their size. Data up to 25 Sep 2026.",
+  "subtitle_y": 0.605,
+  "stats": [
+    {
+      "value": "+32.25%",
+      "label": "Best return this year\n(Bank of India Small Cap)",
+      "tone": "green"
+    },
+    {
+      "value": "36 of 36",
+      "label": "small-cap funds\nmade money this year",
+      "tone": "gold"
+    },
+    {
+      "value": "0 of 10",
+      "label": "biggest funds made the\ntop 10 for returns",
+      "tone": "white"
+    }
+  ],
+  "cta": "Swipe →",
+  "footer": "Source: AMFI NAV data and fund portfolio disclosures · GoalFi analysis"
+}

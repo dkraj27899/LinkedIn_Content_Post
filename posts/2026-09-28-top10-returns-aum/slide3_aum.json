@@ -1,0 +1,72 @@
+{
+  "kind": "bars",
+  "kicker": "GoalFi Research · 3 / 3",
+  "title": "India's 10 largest mutual funds",
+  "subtitle": "AUM as of 31 Aug 2026, with each fund's 2026 YTD return",
+  "bars": [
+    {
+      "label": "SBI\nNifty 50 ETF",
+      "value": 213804.39,
+      "tag": -10.63
+    },
+    {
+      "label": "Parag Parikh\nFlexi Cap",
+      "value": 147383.63,
+      "tag": -5.48
+    },
+    {
+      "label": "SBI\nBSE Sensex ETF",
+      "value": 121964.14,
+      "tag": -12.55
+    },
+    {
+      "label": "HDFC\nFlexi Cap",
+      "value": 113626.85,
+      "tag": -2.55
+    },
+    {
+      "label": "HDFC\nMid Cap",
+      "value": 108320.18,
+      "tag": 0.73
+    },
+    {
+      "label": "HDFC Balanced\nAdvantage",
+      "value": 107400.07,
+      "tag": -3.79
+    },
+    {
+      "label": "SBI\nLiquid",
+      "value": 92204.85,
+      "tag": 4.83
+    },
+    {
+      "label": "SBI Aggressive\nHybrid",
+      "value": 88637.12,
+      "tag": 0.09
+    },
+    {
+      "label": "ICICI Pru\nMulti-Asset",
+      "value": 87844.08,
+      "tag": -2.36
+    },
+    {
+      "label": "Nippon India\nSmall Cap",
+      "value": 82659.8,
+      "tag": 11.23
+    }
+  ],
+  "format": {
+    "prefix": "₹",
+    "suffix": " Cr",
+    "decimals": 0
+  },
+  "tag_format": {
+    "suffix": "%",
+    "decimals": 2,
+    "signed": true
+  },
+  "tag_header": "2026 YTD",
+  "colors": "brand",
+  "note": "6 of the 10 largest funds are down this year. AUM from AMC portfolio disclosures (Aug 2026).\nReturns: direct growth plans (ETFs: NAV), 31 Dec 2025 → 25 Sep 2026.",
+  "footer": "Source: AMC monthly portfolio disclosures (SEBI), AMFI daily NAVs · GoalFi analysis"
+}

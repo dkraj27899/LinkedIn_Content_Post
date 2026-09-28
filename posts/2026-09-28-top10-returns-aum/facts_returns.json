@@ -1,0 +1,261 @@
+{
+  "start_requested": "2025-12-31",
+  "end_requested": "2026-09-25",
+  "start_nav_date": "2025-12-31",
+  "end_nav_date": "2026-09-25",
+  "universe": "diversified",
+  "plan": "direct / growth",
+  "funds_in_universe": 295,
+  "median_ret_pct": 0.62,
+  "pct_positive": 54.6,
+  "benchmark": "120716 UTI Nifty 50 Index Fund - Growth Option- Direct",
+  "benchmark_ret_pct": -10.73,
+  "funds_beating_benchmark": 293,
+  "top10_cutoff_ret_pct": 17.49,
+  "by_category": [
+    {
+      "category": "Small Cap Fund",
+      "count": 32,
+      "median": 14.82,
+      "max": 32.25
+    },
+    {
+      "category": "Mid Cap Fund",
+      "count": 31,
+      "median": 4.78,
+      "max": 15.39
+    },
+    {
+      "category": "Multi Cap Fund",
+      "count": 32,
+      "median": 3.93,
+      "max": 15.25
+    },
+    {
+      "category": "Large & Mid Cap Fund",
+      "count": 33,
+      "median": -0.14,
+      "max": 11.16
+    },
+    {
+      "category": "Flexi Cap Fund",
+      "count": 44,
+      "median": -0.16,
+      "max": 10.69
+    },
+    {
+      "category": "Focused Fund",
+      "count": 28,
+      "median": -0.18,
+      "max": 22.43
+    },
+    {
+      "category": "ELSS",
+      "count": 38,
+      "median": -2.29,
+      "max": 12.47
+    },
+    {
+      "category": "Value Fund",
+      "count": 21,
+      "median": -3.09,
+      "max": 19.8
+    },
+    {
+      "category": "Contra Fund",
+      "count": 3,
+      "median": -3.94,
+      "max": -3.85
+    },
+    {
+      "category": "Large Cap Fund",
+      "count": 33,
+      "median": -5.72,
+      "max": 3.83
+    }
+  ],
+  "bottom5": [
+    {
+      "amfi_code": "146549",
+      "scheme_nav_name": "Mahindra Manulife Large Cap Fund - Direct Plan -Growth",
+      "fund_house": "Mahindra Manulife Mutual Fund",
+      "category": "Large Cap Fund",
+      "nav0": 27.04,
+      "nav": 24.3,
+      "ret_pct": -10.15
+    },
+    {
+      "amfi_code": "103490",
+      "scheme_nav_name": "Quantum Value Fund - Direct Plan Growth Option",
+      "fund_house": "Quantum Mutual Fund",
+      "category": "Value Fund",
+      "nav0": 133.98,
+      "nav": 120.37,
+      "ret_pct": -10.16
+    },
+    {
+      "amfi_code": "120323",
+      "scheme_nav_name": "ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth",
+      "fund_house": "ICICI Prudential Mutual Fund",
+      "category": "Value Fund",
+      "nav0": 549.24,
+      "nav": 491.16,
+      "ret_pct": -10.57
+    },
+    {
+      "amfi_code": "151471",
+      "scheme_nav_name": "NAVI ELSS TAX SAVER NIFTY 50 INDEX FUND - DIRECT PLAN GROWTH",
+      "fund_house": "Navi Mutual Fund",
+      "category": "ELSS",
+      "nav0": 15.78,
+      "nav": 14.08,
+      "ret_pct": -10.77
+    },
+    {
+      "amfi_code": "118564",
+      "scheme_nav_name": "Franklin India Focused Equity Fund - Direct - Growth",
+      "fund_house": "Franklin Templeton Mutual Fund",
+      "category": "Focused Fund",
+      "nav0": 124.87,
+      "nav": 109.73,
+      "ret_pct": -12.12
+    }
+  ],
+  "rows": [
+    {
+      "amfi_code": "145678",
+      "scheme_nav_name": "BANK OF INDIA Small Cap Fund Direct Plan Growth",
+      "fund_house": "Bank of India Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 50.35,
+      "nav": 66.59,
+      "ret_pct": 32.25
+    },
+    {
+      "amfi_code": "152939",
+      "scheme_nav_name": "TRUSTMF SMALL CAP FUND -DIRECT PLAN-GROWTH",
+      "fund_house": "Trust Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 10.91,
+      "nav": 13.97,
+      "ret_pct": 28.05
+    },
+    {
+      "amfi_code": "129649",
+      "scheme_nav_name": "Union Small Cap Fund - Direct Plan - Growth Option",
+      "fund_house": "Union Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 54.14,
+      "nav": 67.2,
+      "ret_pct": 24.12
+    },
+    {
+      "amfi_code": "147919",
+      "scheme_nav_name": "ITI Small Cap Fund - Direct Plan - Growth Option",
+      "fund_house": "ITI Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 31.36,
+      "nav": 38.49,
+      "ret_pct": 22.75
+    },
+    {
+      "amfi_code": "122389",
+      "scheme_nav_name": "Motilal Oswal Focused Fund - Direct Plan Growth Option",
+      "fund_house": "Motilal Oswal Mutual Fund",
+      "category": "Focused Fund",
+      "nav0": 51.81,
+      "nav": 63.43,
+      "ret_pct": 22.43
+    },
+    {
+      "amfi_code": "152237",
+      "scheme_nav_name": "Motilal Oswal Small Cap Fund - Direct - Growth",
+      "fund_house": "Motilal Oswal Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 14.33,
+      "nav": 17.5,
+      "ret_pct": 22.11
+    },
+    {
+      "amfi_code": "152004",
+      "scheme_nav_name": "LIC MF Small Cap Fund-Direct Plan-Growth",
+      "fund_house": "LIC Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 33.16,
+      "nav": 40.21,
+      "ret_pct": 21.25
+    },
+    {
+      "amfi_code": "152614",
+      "scheme_nav_name": "JM Small Cap Fund (Direct) - Growth Option",
+      "fund_house": "JM Financial Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 9.93,
+      "nav": 12.03,
+      "ret_pct": 21.13
+    },
+    {
+      "amfi_code": "152018",
+      "scheme_nav_name": "LIC MF Value Fund-Direct Plan-Growth",
+      "fund_house": "LIC Mutual Fund",
+      "category": "Value Fund",
+      "nav0": 26.44,
+      "nav": 31.68,
+      "ret_pct": 19.8
+    },
+    {
+      "amfi_code": "119212",
+      "scheme_nav_name": "DSP Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "DSP Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 215.81,
+      "nav": 256.99,
+      "ret_pct": 19.08
+    },
+    {
+      "amfi_code": "119556",
+      "scheme_nav_name": "Aditya Birla Sun Life Small Cap Fund - Growth - Direct Plan",
+      "fund_house": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 96.65,
+      "nav": 115.05,
+      "ret_pct": 19.04
+    },
+    {
+      "amfi_code": "153912",
+      "scheme_nav_name": "Helios Small Cap Fund - Direct Plan - Growth Option",
+      "fund_house": "Helios Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 9.83,
+      "nav": 11.63,
+      "ret_pct": 18.31
+    },
+    {
+      "amfi_code": "153612",
+      "scheme_nav_name": "BAJAJ FINSERV SMALL CAP FUND - DIRECT - GROWTH",
+      "fund_house": "Bajaj Finserv Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 9.65,
+      "nav": 11.38,
+      "ret_pct": 17.85
+    },
+    {
+      "amfi_code": "149019",
+      "scheme_nav_name": "PGIM India Small Cap Fund - Direct Plan- Growth Option",
+      "fund_house": "PGIM India Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 17.21,
+      "nav": 20.26,
+      "ret_pct": 17.72
+    },
+    {
+      "amfi_code": "150915",
+      "scheme_nav_name": "Mahindra Manulife Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "Mahindra Manulife Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 20.39,
+      "nav": 23.95,
+      "ret_pct": 17.49
+    }
+  ]
+}

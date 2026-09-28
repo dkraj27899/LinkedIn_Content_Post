@@ -1,0 +1,114 @@
+{
+  "month": "2026-08",
+  "category_filter": "Small ?Cap",
+  "schemes_reported": 36,
+  "reported_aum_cr": 465669.0,
+  "top_n_aum_cr": 344517.0,
+  "top_n_share_pct": 73.98,
+  "flags_inconsistent_aum": [],
+  "flags_holdings_mismatch": [
+    "Bandhan Small Cap Fund"
+  ],
+  "rows": [
+    {
+      "amc": "Nippon India Mutual Fund",
+      "scheme": "Nippon India Small Cap Fund",
+      "code": "118778",
+      "category": "Equity Scheme - Small Cap Fund",
+      "aum_cr": 82659.8,
+      "share_of_reported_aum_pct": 17.75,
+      "passive": false,
+      "holdings_to_aum": 0.97
+    },
+    {
+      "amc": "SBI Mutual Fund",
+      "scheme": "SBI Smallcap Fund",
+      "code": "125497",
+      "category": "Equity Scheme - Small Cap Fund",
+      "aum_cr": 42625.29,
+      "share_of_reported_aum_pct": 9.15,
+      "passive": false,
+      "holdings_to_aum": 0.99
+    },
+    {
+      "amc": "HDFC Mutual Fund",
+      "scheme": "HDFC Small Cap Fund",
+      "code": "130503",
+      "category": "Equity Scheme - Small Cap Fund",
+      "aum_cr": 41916.05,
+      "share_of_reported_aum_pct": 9.0,
+      "passive": false,
+      "holdings_to_aum": 1.0
+    },
+    {
+      "amc": "Quant Mutual Fund",
+      "scheme": "quant Small Cap Fund",
+      "code": "120828",
+      "category": "Equity Scheme - Small Cap Fund",
+      "aum_cr": 35557.21,
+      "share_of_reported_aum_pct": 7.64,
+      "passive": false,
+      "holdings_to_aum": 0.98
+    },
+    {
+      "amc": "Bandhan Mutual Fund",
+      "scheme": "Bandhan Small Cap Fund",
+      "code": "147946",
+      "category": "Equity Scheme - Small Cap Fund",
+      "aum_cr": 34161.7,
+      "share_of_reported_aum_pct": 7.34,
+      "passive": false,
+      "holdings_to_aum": 0.87
+    },
+    {
+      "amc": "Axis Mutual Fund",
+      "scheme": "Axis Small Cap Fund",
+      "code": "125354",
+      "category": "Equity Scheme - Small Cap Fund",
+      "aum_cr": 31438.62,
+      "share_of_reported_aum_pct": 6.75,
+      "passive": false,
+      "holdings_to_aum": 0.98
+    },
+    {
+      "amc": "DSP Mutual Fund",
+      "scheme": "DSP Small Cap Fund",
+      "code": "119212",
+      "category": "Equity Scheme - Small Cap Fund",
+      "aum_cr": 21662.45,
+      "share_of_reported_aum_pct": 4.65,
+      "passive": false,
+      "holdings_to_aum": 1.01
+    },
+    {
+      "amc": "Kotak Mahindra Mutual Fund",
+      "scheme": "Kotak Small Cap Fund",
+      "code": "120164",
+      "category": "Equity Scheme - Small Cap Fund",
+      "aum_cr": 19686.59,
+      "share_of_reported_aum_pct": 4.23,
+      "passive": false,
+      "holdings_to_aum": 0.99
+    },
+    {
+      "amc": "HSBC Mutual Fund",
+      "scheme": "HSBC Small Cap Fund",
+      "code": "151130",
+      "category": "Equity Scheme - Small Cap Fund",
+      "aum_cr": 19067.16,
+      "share_of_reported_aum_pct": 4.09,
+      "passive": false,
+      "holdings_to_aum": 1.0
+    },
+    {
+      "amc": "Invesco Mutual Fund",
+      "scheme": "Invesco India Small cap Fund",
+      "code": "145137",
+      "category": "Equity Scheme - Small Cap Fund",
+      "aum_cr": 15742.33,
+      "share_of_reported_aum_pct": 3.38,
+      "passive": false,
+      "holdings_to_aum": 0.95
+    }
+  ]
+}

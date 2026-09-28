@@ -1,0 +1,25 @@
+{
+  "kind": "cover",
+  "kicker": "GoalFi Research · Mutual funds · 2026 YTD",
+  "title": "2026's best funds\naren't its biggest.",
+  "subtitle": "Top 10 diversified equity performers vs\nIndia's 10 largest funds, 1 Jan – 25 Sep 2026",
+  "stats": [
+    {
+      "value": "+32.25%",
+      "label": "Top diversified fund\n(Bank of India Small Cap)",
+      "tone": "green"
+    },
+    {
+      "value": "−10.73%",
+      "label": "Nifty 50\nindex fund",
+      "tone": "red"
+    },
+    {
+      "value": "6 of 10",
+      "label": "largest funds are\ndown this year",
+      "tone": "gold"
+    }
+  ],
+  "cta": "Swipe →",
+  "footer": "Source: AMFI daily NAVs, AMC portfolio disclosures (SEBI), NSE · GoalFi analysis"
+}

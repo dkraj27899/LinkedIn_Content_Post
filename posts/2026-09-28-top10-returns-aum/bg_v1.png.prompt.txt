@@ -1,0 +1,5 @@
+model: flux.1-dev (NVIDIA API)
+aspect: 4:5  steps: 50  cfg: 3.5
+seed: 2217609852   (reproduce with --seed 2217609852)
+
+Premium abstract background for a financial research infographic. Deep midnight navy blue (#172554) dominant, with restrained metallic gold (#d29900) accents. Minimal, elegant, flat vector or soft 3D, subtle fine grid lines and soft depth, institutional investment-bank aesthetic. The top quarter and the centre must stay calm and uncluttered so headline text and a chart can be placed over them. Absolutely no text, no letters, no numbers, no logos, no watermarks, no people, no faces, no currency notes, no coins. Scene: A field of many small, bright gold light particles rising steeply upward on the right side, while a few large, heavy, dim navy-blue spheres drift slowly downward on the left side: small things climbing, big things sinking. Soft depth of field, faint perspective grid receding into darkness, lots of calm dark empty space in the upper half and centre.

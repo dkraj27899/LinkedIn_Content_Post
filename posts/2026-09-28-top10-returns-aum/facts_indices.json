@@ -1,0 +1,37 @@
+{
+  "source": "NSE archives ind_close_all_DDMMYYYY.csv (nsearchives.nseindia.com/content/indices/)",
+  "start": "2025-12-31",
+  "end": "2026-09-25",
+  "indices": {
+    "Nifty 50": {
+      "close_start": 26129.6,
+      "close_end": 23140.5,
+      "price_ret_pct": -11.44
+    },
+    "Nifty 500": {
+      "close_start": 23871.55,
+      "close_end": 22603.5,
+      "price_ret_pct": -5.31
+    },
+    "Nifty Midcap 150": {
+      "close_start": 22276.9,
+      "close_end": 22437.0,
+      "price_ret_pct": 0.72
+    },
+    "Nifty Smallcap 250": {
+      "close_start": 16684.75,
+      "close_end": 18158.9,
+      "price_ret_pct": 8.84
+    },
+    "NIFTY Smallcap 100": {
+      "close_start": 17713.95,
+      "close_end": 19715.25,
+      "price_ret_pct": 11.3
+    },
+    "NIFTY Midcap 100": {
+      "close_start": 60484.5,
+      "close_end": 60906.0,
+      "price_ret_pct": 0.7
+    }
+  }
+}

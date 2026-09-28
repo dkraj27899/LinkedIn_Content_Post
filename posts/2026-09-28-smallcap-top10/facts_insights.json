@@ -1,0 +1,166 @@
+{
+  "funds_with_ytd_return": 33,
+  "all_positive": true,
+  "median_ret_pct_all": 15.24,
+  "best": {
+    "fund": "BANK OF INDIA Small Cap Fund Direct Plan Growth",
+    "ret_pct": 32.25
+  },
+  "lowest": {
+    "fund": "HDFC Small Cap Fund - Growth Option - Direct Plan",
+    "ret_pct": 1.22
+  },
+  "index_fund_bench": {
+    "fund": "147623 Motilal Oswal Nifty Smallcap 250 Index Fund- Direct Plan",
+    "ret_pct": 9.04,
+    "funds_beating": 26
+  },
+  "top10_by_return_combined_aum_cr": 51017.9,
+  "top10_by_return_aum_missing": [],
+  "top10_by_aum_combined_aum_cr": 344517.0,
+  "top10_by_aum_share_pct": 73.98,
+  "category_aum_cr": 465669.0,
+  "active_smallcap_schemes": 36,
+  "nippon_share_pct": 17.75,
+  "overlap_top10_return_and_aum": [
+    "DSP Small Cap Fund - Direct Plan - Growth"
+  ],
+  "median_ret_top10_by_aum": 12.54,
+  "median_ret_other_funds": 17.72,
+  "top10_by_aum_ytd": {
+    "Nippon India Small Cap Fund": 11.23,
+    "SBI Smallcap Fund": 9.68,
+    "HDFC Small Cap Fund": 1.22,
+    "quant Small Cap Fund": 15.24,
+    "Bandhan Small Cap Fund": 13.22,
+    "Axis Small Cap Fund": 11.87,
+    "DSP Small Cap Fund": 19.08,
+    "Kotak Small Cap Fund": 11.67,
+    "HSBC Small Cap Fund": 17.08,
+    "Invesco India Small cap Fund": 15.89
+  },
+  "launched_after_base_date_no_ytd": [
+    "Abakkus Small Cap Fund",
+    "Groww Small Cap Fund",
+    "The Wealth Company Small Cap Fund"
+  ],
+  "samco_note": "Samco Small Cap Fund launched 14-Nov-2025 (Scheme_Data); YTD uses its 31-Dec-2025 NAV 10.03",
+  "top10_by_return_rows": [
+    {
+      "amfi_code": "145678",
+      "scheme_nav_name": "BANK OF INDIA Small Cap Fund Direct Plan Growth",
+      "fund_house": "Bank of India Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 50.35,
+      "nav": 66.59,
+      "ret_pct": 32.25,
+      "aum_cr": 3308.0
+    },
+    {
+      "amfi_code": "153868",
+      "scheme_nav_name": "Samco Small Cap Fund - Direct Plan",
+      "fund_house": "Samco Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 10.03,
+      "nav": 12.87,
+      "ret_pct": 28.32,
+      "aum_cr": 196.49
+    },
+    {
+      "amfi_code": "152939",
+      "scheme_nav_name": "TRUSTMF SMALL CAP FUND -DIRECT PLAN-GROWTH",
+      "fund_house": "Trust Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 10.91,
+      "nav": 13.97,
+      "ret_pct": 28.05,
+      "aum_cr": 3440.8
+    },
+    {
+      "amfi_code": "129649",
+      "scheme_nav_name": "Union Small Cap Fund - Direct Plan - Growth Option",
+      "fund_house": "Union Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 54.14,
+      "nav": 67.2,
+      "ret_pct": 24.12,
+      "aum_cr": 2667.44
+    },
+    {
+      "amfi_code": "147919",
+      "scheme_nav_name": "ITI Small Cap Fund - Direct Plan - Growth Option",
+      "fund_house": "ITI Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 31.36,
+      "nav": 38.49,
+      "ret_pct": 22.75,
+      "aum_cr": 3602.81
+    },
+    {
+      "amfi_code": "152237",
+      "scheme_nav_name": "Motilal Oswal Small Cap Fund - Direct - Growth",
+      "fund_house": "Motilal Oswal Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 14.33,
+      "nav": 17.5,
+      "ret_pct": 22.11,
+      "aum_cr": 8152.32
+    },
+    {
+      "amfi_code": "152004",
+      "scheme_nav_name": "LIC MF Small Cap Fund-Direct Plan-Growth",
+      "fund_house": "LIC Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 33.16,
+      "nav": 40.21,
+      "ret_pct": 21.25,
+      "aum_cr": 831.61
+    },
+    {
+      "amfi_code": "152614",
+      "scheme_nav_name": "JM Small Cap Fund (Direct) - Growth Option",
+      "fund_house": "JM Financial Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 9.93,
+      "nav": 12.03,
+      "ret_pct": 21.13,
+      "aum_cr": 929.5
+    },
+    {
+      "amfi_code": "119212",
+      "scheme_nav_name": "DSP Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "DSP Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 215.81,
+      "nav": 256.99,
+      "ret_pct": 19.08,
+      "aum_cr": 21662.45
+    },
+    {
+      "amfi_code": "119556",
+      "scheme_nav_name": "Aditya Birla Sun Life Small Cap Fund - Growth - Direct Plan",
+      "fund_house": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 96.65,
+      "nav": 115.05,
+      "ret_pct": 19.04,
+      "aum_cr": 6226.48
+    }
+  ],
+  "return_rank_of_top10_by_aum": {
+    "Nippon India Small Cap Fund": 22,
+    "SBI Smallcap Fund": 26,
+    "HDFC Small Cap Fund": 33,
+    "quant Small Cap Fund": 17,
+    "Bandhan Small Cap Fund": 19,
+    "Axis Small Cap Fund": 20,
+    "DSP Small Cap Fund": 9,
+    "Kotak Small Cap Fund": 21,
+    "HSBC Small Cap Fund": 15,
+    "Invesco India Small cap Fund": 16
+  },
+  "return_rank_range_top10_by_aum": [
+    9,
+    33
+  ]
+}

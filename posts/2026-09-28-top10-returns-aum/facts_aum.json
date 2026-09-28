@@ -1,0 +1,111 @@
+{
+  "month": "2026-08",
+  "schemes_reported": 2109,
+  "reported_aum_cr": 8927524.0,
+  "top_n_aum_cr": 1163845.0,
+  "top_n_share_pct": 13.04,
+  "flags_inconsistent_aum": [],
+  "flags_holdings_mismatch": [],
+  "rows": [
+    {
+      "amc": "SBI Mutual Fund",
+      "scheme": "SBI Nifty 50 ETF",
+      "code": "135106",
+      "category": "Other Scheme - Other  ETFs",
+      "aum_cr": 213804.39,
+      "share_of_reported_aum_pct": 2.39,
+      "passive": true,
+      "holdings_to_aum": 1.0
+    },
+    {
+      "amc": "Parag Parikh Mutual Fund",
+      "scheme": "Parag Parikh Flexi Cap Fund",
+      "code": "122639",
+      "category": "Equity Scheme - Flexi Cap Fund",
+      "aum_cr": 147383.63,
+      "share_of_reported_aum_pct": 1.65,
+      "passive": false,
+      "holdings_to_aum": 0.95
+    },
+    {
+      "amc": "SBI Mutual Fund",
+      "scheme": "SBI BSE Sensex ETF",
+      "code": "121109",
+      "category": "Other Scheme - Other  ETFs",
+      "aum_cr": 121964.14,
+      "share_of_reported_aum_pct": 1.37,
+      "passive": true,
+      "holdings_to_aum": 1.0
+    },
+    {
+      "amc": "HDFC Mutual Fund",
+      "scheme": "HDFC Flexi Cap Fund",
+      "code": "118955",
+      "category": "Equity Scheme - Flexi Cap Fund",
+      "aum_cr": 113626.85,
+      "share_of_reported_aum_pct": 1.27,
+      "passive": false,
+      "holdings_to_aum": 1.0
+    },
+    {
+      "amc": "HDFC Mutual Fund",
+      "scheme": "HDFC Mid Cap Fund",
+      "code": "118989",
+      "category": "Equity Scheme - Mid Cap Fund",
+      "aum_cr": 108320.18,
+      "share_of_reported_aum_pct": 1.21,
+      "passive": false,
+      "holdings_to_aum": 1.0
+    },
+    {
+      "amc": "HDFC Mutual Fund",
+      "scheme": "HDFC Balanced Advantage Fund",
+      "code": "118968",
+      "category": "Hybrid Scheme - Dynamic Asset Allocation or Balanced Advantage",
+      "aum_cr": 107400.07,
+      "share_of_reported_aum_pct": 1.2,
+      "passive": false,
+      "holdings_to_aum": 0.99
+    },
+    {
+      "amc": "SBI Mutual Fund",
+      "scheme": "SBI Liquid Fund",
+      "code": "119800",
+      "category": "Debt Scheme - Liquid Fund",
+      "aum_cr": 92204.85,
+      "share_of_reported_aum_pct": 1.03,
+      "passive": false,
+      "holdings_to_aum": 1.0
+    },
+    {
+      "amc": "SBI Mutual Fund",
+      "scheme": "SBI Aggressive Hybrid Fund",
+      "code": null,
+      "category": NaN,
+      "aum_cr": 88637.12,
+      "share_of_reported_aum_pct": 0.99,
+      "passive": false,
+      "holdings_to_aum": 1.0
+    },
+    {
+      "amc": "ICICI Prudential Mutual Fund",
+      "scheme": "ICICI Prudential Multi-Asset Fund",
+      "code": "120334",
+      "category": "Hybrid Scheme - Multi Asset Allocation",
+      "aum_cr": 87844.08,
+      "share_of_reported_aum_pct": 0.98,
+      "passive": false,
+      "holdings_to_aum": 0.97
+    },
+    {
+      "amc": "Nippon India Mutual Fund",
+      "scheme": "Nippon India Small Cap Fund",
+      "code": "118778",
+      "category": "Equity Scheme - Small Cap Fund",
+      "aum_cr": 82659.8,
+      "share_of_reported_aum_pct": 0.93,
+      "passive": false,
+      "holdings_to_aum": 0.97
+    }
+  ]
+}

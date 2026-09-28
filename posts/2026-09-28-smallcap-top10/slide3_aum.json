@@ -1,0 +1,85 @@
+{
+  "kind": "ranking",
+  "kicker": "GoalFi Research · Small caps · 3 / 3",
+  "title": "The 10 biggest small-cap funds",
+  "subtitle": "Fund size as of 31 Aug 2026, and how each did this year",
+  "value_header": "Fund size (Aug 2026)",
+  "tag_header": "Return in 2026",
+  "bar_len": 390,
+  "rows": [
+    {
+      "logo": "assets/amc_logos/nippon_india_mutual_fund_badge.png",
+      "name": "Nippon India Mutual Fund",
+      "value": 82659.8,
+      "tag": 11.23
+    },
+    {
+      "logo": "assets/amc_logos/sbi_mutual_fund_badge.png",
+      "name": "SBI Mutual Fund",
+      "value": 42625.29,
+      "tag": 9.68
+    },
+    {
+      "logo": "assets/amc_logos/hdfc_mutual_fund_badge.png",
+      "name": "HDFC Mutual Fund",
+      "value": 41916.05,
+      "tag": 1.22
+    },
+    {
+      "logo": "assets/amc_logos/quant_mutual_fund_badge.png",
+      "name": "Quant Mutual Fund",
+      "value": 35557.21,
+      "tag": 15.24
+    },
+    {
+      "logo": "assets/amc_logos/bandhan_mutual_fund_badge.png",
+      "name": "Bandhan Mutual Fund",
+      "value": 34161.7,
+      "tag": 13.22
+    },
+    {
+      "logo": "assets/amc_logos/axis_mutual_fund_badge.png",
+      "name": "Axis Mutual Fund",
+      "value": 31438.62,
+      "tag": 11.87
+    },
+    {
+      "logo": "assets/amc_logos/dsp_mutual_fund_badge.png",
+      "name": "DSP Mutual Fund",
+      "value": 21662.45,
+      "tag": 19.08
+    },
+    {
+      "logo": "assets/amc_logos/kotak_mahindra_mutual_fund_badge.png",
+      "name": "Kotak Mahindra Mutual Fund",
+      "value": 19686.59,
+      "tag": 11.67
+    },
+    {
+      "logo": "assets/amc_logos/hsbc_mutual_fund_badge.png",
+      "name": "HSBC Mutual Fund",
+      "value": 19067.16,
+      "tag": 17.08
+    },
+    {
+      "logo": "assets/amc_logos/invesco_mutual_fund_badge.png",
+      "name": "Invesco Mutual Fund",
+      "value": 15742.33,
+      "tag": 15.89
+    }
+  ],
+  "format": {
+    "prefix": "₹",
+    "suffix": " Cr",
+    "decimals": 0
+  },
+  "tag_format": {
+    "suffix": "%",
+    "decimals": 2,
+    "signed": true
+  },
+  "bar_color": "#172554",
+  "note": "None of these 10 made the top 10 for returns. The closest is DSP, at #12 of 36.\nTogether they hold 73.98% of all small-cap fund money (₹4,65,669 Cr).",
+  "footer": "Source: AMFI NAV data and fund portfolio disclosures · GoalFi analysis",
+  "name_header": "FUND"
+}

@@ -1,0 +1,1 @@
+A field of many small, bright gold light particles rising steeply upward on the right side, while a few large, heavy, dim navy-blue spheres drift slowly downward on the left side: small things climbing, big things sinking. Soft depth of field, faint perspective grid receding into darkness, lots of calm dark empty space in the upper half and centre.

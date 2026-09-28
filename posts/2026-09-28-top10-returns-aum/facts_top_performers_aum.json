@@ -1,0 +1,116 @@
+{
+  "month": "2026-08",
+  "rows": [
+    {
+      "amfi_code": "145678",
+      "plan": "BANK OF INDIA Small Cap Fund Direct Plan Growth",
+      "ytd_ret_pct": 32.25,
+      "aug26_disclosure": [
+        {
+          "scheme": "Bank Of India Small Cap Fund",
+          "aum_cr": 3308.0
+        }
+      ]
+    },
+    {
+      "amfi_code": "152939",
+      "plan": "TRUSTMF SMALL CAP FUND -DIRECT PLAN-GROWTH",
+      "ytd_ret_pct": 28.05,
+      "aug26_disclosure": [
+        {
+          "scheme": "TRUSTMF Small Cap Fund",
+          "aum_cr": 3440.8
+        }
+      ]
+    },
+    {
+      "amfi_code": "129649",
+      "plan": "Union Small Cap Fund - Direct Plan - Growth Option",
+      "ytd_ret_pct": 24.12,
+      "aug26_disclosure": [
+        {
+          "scheme": "Union Small Cap Fund",
+          "aum_cr": 2667.44
+        }
+      ]
+    },
+    {
+      "amfi_code": "147919",
+      "plan": "ITI Small Cap Fund - Direct Plan - Growth Option",
+      "ytd_ret_pct": 22.75,
+      "aug26_disclosure": [
+        {
+          "scheme": "ITI Small Cap Fund",
+          "aum_cr": 3602.81
+        }
+      ]
+    },
+    {
+      "amfi_code": "122389",
+      "plan": "Motilal Oswal Focused Fund - Direct Plan Growth Option",
+      "ytd_ret_pct": 22.43,
+      "aug26_disclosure": [
+        {
+          "scheme": "Motilal Oswal Focused Fund",
+          "aum_cr": 1826.98
+        }
+      ]
+    },
+    {
+      "amfi_code": "152237",
+      "plan": "Motilal Oswal Small Cap Fund - Direct - Growth",
+      "ytd_ret_pct": 22.11,
+      "aug26_disclosure": [
+        {
+          "scheme": "Motilal Oswal Small Cap Fund",
+          "aum_cr": 8152.32
+        }
+      ]
+    },
+    {
+      "amfi_code": "152004",
+      "plan": "LIC MF Small Cap Fund-Direct Plan-Growth",
+      "ytd_ret_pct": 21.25,
+      "aug26_disclosure": [
+        {
+          "scheme": "LIC MF Small Cap Fund",
+          "aum_cr": 831.61
+        }
+      ]
+    },
+    {
+      "amfi_code": "152614",
+      "plan": "JM Small Cap Fund (Direct) - Growth Option",
+      "ytd_ret_pct": 21.13,
+      "aug26_disclosure": [
+        {
+          "scheme": "JM Small Cap Fund",
+          "aum_cr": 929.5
+        }
+      ]
+    },
+    {
+      "amfi_code": "152018",
+      "plan": "LIC MF Value Fund-Direct Plan-Growth",
+      "ytd_ret_pct": 19.8,
+      "aug26_disclosure": [
+        {
+          "scheme": "LIC MF Value Fund",
+          "aum_cr": 301.53
+        }
+      ]
+    },
+    {
+      "amfi_code": "119212",
+      "plan": "DSP Small Cap Fund - Direct Plan - Growth",
+      "ytd_ret_pct": 19.08,
+      "aug26_disclosure": [
+        {
+          "scheme": "DSP Small Cap Fund",
+          "aum_cr": 21662.45
+        }
+      ]
+    }
+  ],
+  "combined_aum_cr_matched": 46723.44
+}

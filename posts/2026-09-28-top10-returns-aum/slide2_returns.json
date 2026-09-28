@@ -1,0 +1,62 @@
+{
+  "kind": "bars",
+  "kicker": "GoalFi Research · 2 / 3",
+  "title": "Top 10 performers of 2026 so far",
+  "subtitle": "Diversified equity funds · YTD return · direct growth plans",
+  "bars": [
+    {
+      "label": "Bank of India\nSmall Cap",
+      "value": 32.25
+    },
+    {
+      "label": "Trust MF\nSmall Cap",
+      "value": 28.05
+    },
+    {
+      "label": "Union\nSmall Cap",
+      "value": 24.12
+    },
+    {
+      "label": "ITI\nSmall Cap",
+      "value": 22.75
+    },
+    {
+      "label": "Motilal Oswal\nFocused",
+      "value": 22.43
+    },
+    {
+      "label": "Motilal Oswal\nSmall Cap",
+      "value": 22.11
+    },
+    {
+      "label": "LIC MF\nSmall Cap",
+      "value": 21.25
+    },
+    {
+      "label": "JM Financial\nSmall Cap",
+      "value": 21.13
+    },
+    {
+      "label": "LIC MF\nValue",
+      "value": 19.8
+    },
+    {
+      "label": "DSP\nSmall Cap",
+      "value": 19.08
+    },
+    {
+      "label": "Nifty 50\nindex fund",
+      "value": -10.73,
+      "color": "#64748B"
+    }
+  ],
+  "format": {
+    "suffix": "%",
+    "decimals": 2,
+    "signed": true
+  },
+  "colors": "signed",
+  "separator_before": 10,
+  "note": "295 diversified equity funds ranked (sectoral/thematic excluded). 8 of the top 10 are small-cap funds.\nNAV 31 Dec 2025 → 25 Sep 2026. Benchmark: UTI Nifty 50 Index Fund (direct).",
+  "footer": "Source: AMFI daily NAVs · GoalFi analysis"
+}

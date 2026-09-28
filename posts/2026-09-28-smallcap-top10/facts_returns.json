@@ -1,0 +1,371 @@
+{
+  "start_requested": "2025-12-31",
+  "end_requested": "2026-09-25",
+  "start_nav_date": "2025-12-31",
+  "end_nav_date": "2026-09-25",
+  "universe": "equity",
+  "category_filter": "Small Cap",
+  "plan": "direct / growth",
+  "duplicate_plans_dropped": 0,
+  "funds_in_universe": 33,
+  "median_ret_pct": 15.24,
+  "pct_positive": 100.0,
+  "benchmark": "147623 Motilal Oswal Nifty Smallcap 250 Index Fund- Direct Plan",
+  "benchmark_ret_pct": 9.04,
+  "funds_beating_benchmark": 26,
+  "top10_cutoff_ret_pct": 1.22,
+  "by_category": [
+    {
+      "category": "Small Cap Fund",
+      "count": 33,
+      "median": 15.24,
+      "max": 32.25
+    }
+  ],
+  "bottom5": [
+    {
+      "amfi_code": "148618",
+      "scheme_nav_name": "UTI Small Cap Fund - Direct Plan - Growth Option",
+      "fund_house": "UTI Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 27.39,
+      "nav": 29.69,
+      "ret_pct": 8.39
+    },
+    {
+      "amfi_code": "120591",
+      "scheme_nav_name": "ICICI Prudential Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "ICICI Prudential Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 96.91,
+      "nav": 104.65,
+      "ret_pct": 7.99
+    },
+    {
+      "amfi_code": "118525",
+      "scheme_nav_name": "Franklin India Small Cap Fund - Direct - Growth",
+      "fund_house": "Franklin Templeton Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 186.89,
+      "nav": 201.56,
+      "ret_pct": 7.85
+    },
+    {
+      "amfi_code": "146130",
+      "scheme_nav_name": "CANARA ROBECO SMALL CAP FUND - DIRECT PLAN - GROWTH OPTION",
+      "fund_house": "Canara Robeco Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 42.69,
+      "nav": 45.48,
+      "ret_pct": 6.54
+    },
+    {
+      "amfi_code": "130503",
+      "scheme_nav_name": "HDFC Small Cap Fund - Growth Option - Direct Plan",
+      "fund_house": "HDFC Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 157.89,
+      "nav": 159.82,
+      "ret_pct": 1.22
+    }
+  ],
+  "rows": [
+    {
+      "amfi_code": "145678",
+      "scheme_nav_name": "BANK OF INDIA Small Cap Fund Direct Plan Growth",
+      "fund_house": "Bank of India Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 50.35,
+      "nav": 66.59,
+      "ret_pct": 32.25
+    },
+    {
+      "amfi_code": "153868",
+      "scheme_nav_name": "Samco Small Cap Fund - Direct Plan",
+      "fund_house": "Samco Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 10.03,
+      "nav": 12.87,
+      "ret_pct": 28.32
+    },
+    {
+      "amfi_code": "152939",
+      "scheme_nav_name": "TRUSTMF SMALL CAP FUND -DIRECT PLAN-GROWTH",
+      "fund_house": "Trust Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 10.91,
+      "nav": 13.97,
+      "ret_pct": 28.05
+    },
+    {
+      "amfi_code": "129649",
+      "scheme_nav_name": "Union Small Cap Fund - Direct Plan - Growth Option",
+      "fund_house": "Union Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 54.14,
+      "nav": 67.2,
+      "ret_pct": 24.12
+    },
+    {
+      "amfi_code": "147919",
+      "scheme_nav_name": "ITI Small Cap Fund - Direct Plan - Growth Option",
+      "fund_house": "ITI Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 31.36,
+      "nav": 38.49,
+      "ret_pct": 22.75
+    },
+    {
+      "amfi_code": "152237",
+      "scheme_nav_name": "Motilal Oswal Small Cap Fund - Direct - Growth",
+      "fund_house": "Motilal Oswal Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 14.33,
+      "nav": 17.5,
+      "ret_pct": 22.11
+    },
+    {
+      "amfi_code": "152004",
+      "scheme_nav_name": "LIC MF Small Cap Fund-Direct Plan-Growth",
+      "fund_house": "LIC Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 33.16,
+      "nav": 40.21,
+      "ret_pct": 21.25
+    },
+    {
+      "amfi_code": "152614",
+      "scheme_nav_name": "JM Small Cap Fund (Direct) - Growth Option",
+      "fund_house": "JM Financial Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 9.93,
+      "nav": 12.03,
+      "ret_pct": 21.13
+    },
+    {
+      "amfi_code": "119212",
+      "scheme_nav_name": "DSP Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "DSP Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 215.81,
+      "nav": 256.99,
+      "ret_pct": 19.08
+    },
+    {
+      "amfi_code": "119556",
+      "scheme_nav_name": "Aditya Birla Sun Life Small Cap Fund - Growth - Direct Plan",
+      "fund_house": "Aditya Birla Sun Life Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 96.65,
+      "nav": 115.05,
+      "ret_pct": 19.04
+    },
+    {
+      "amfi_code": "153912",
+      "scheme_nav_name": "Helios Small Cap Fund - Direct Plan - Growth Option",
+      "fund_house": "Helios Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 9.83,
+      "nav": 11.63,
+      "ret_pct": 18.31
+    },
+    {
+      "amfi_code": "153612",
+      "scheme_nav_name": "BAJAJ FINSERV SMALL CAP FUND - DIRECT - GROWTH",
+      "fund_house": "Bajaj Finserv Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 9.65,
+      "nav": 11.38,
+      "ret_pct": 17.85
+    },
+    {
+      "amfi_code": "149019",
+      "scheme_nav_name": "PGIM India Small Cap Fund - Direct Plan- Growth Option",
+      "fund_house": "PGIM India Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 17.21,
+      "nav": 20.26,
+      "ret_pct": 17.72
+    },
+    {
+      "amfi_code": "150915",
+      "scheme_nav_name": "Mahindra Manulife Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "Mahindra Manulife Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 20.39,
+      "nav": 23.95,
+      "ret_pct": 17.49
+    },
+    {
+      "amfi_code": "151130",
+      "scheme_nav_name": "HSBC Small Cap Fund - Direct Growth",
+      "fund_house": "HSBC Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 87.48,
+      "nav": 102.42,
+      "ret_pct": 17.08
+    },
+    {
+      "amfi_code": "145137",
+      "scheme_nav_name": "Invesco India Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "Invesco Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 46.52,
+      "nav": 53.91,
+      "ret_pct": 15.89
+    },
+    {
+      "amfi_code": "120828",
+      "scheme_nav_name": "quant Small Cap Fund - Growth Option - Direct Plan",
+      "fund_house": "quant Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 276.77,
+      "nav": 318.94,
+      "ret_pct": 15.24
+    },
+    {
+      "amfi_code": "119589",
+      "scheme_nav_name": "Sundaram Small Cap Fund Direct Plan - Growth",
+      "fund_house": "Sundaram Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 288.81,
+      "nav": 330.43,
+      "ret_pct": 14.41
+    },
+    {
+      "amfi_code": "147946",
+      "scheme_nav_name": "BANDHAN SMALL CAP FUND - DIRECT PLAN GROWTH",
+      "fund_house": "Bandhan Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 50.88,
+      "nav": 57.61,
+      "ret_pct": 13.22
+    },
+    {
+      "amfi_code": "125354",
+      "scheme_nav_name": "Axis Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "Axis Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 121.63,
+      "nav": 136.07,
+      "ret_pct": 11.87
+    },
+    {
+      "amfi_code": "120164",
+      "scheme_nav_name": "Kotak-Small Cap Fund - Growth - Direct",
+      "fund_house": "Kotak Mahindra Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 294.54,
+      "nav": 328.93,
+      "ret_pct": 11.67
+    },
+    {
+      "amfi_code": "118778",
+      "scheme_nav_name": "Nippon India Small Cap Fund - Direct Plan Growth Plan - Growth Option",
+      "fund_house": "Nippon India Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 187.02,
+      "nav": 208.02,
+      "ret_pct": 11.23
+    },
+    {
+      "amfi_code": "152128",
+      "scheme_nav_name": "Baroda BNP Paribas Small Cap Fund - Direct Plan - Growth option",
+      "fund_house": "Baroda BNP Paribas Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 13.28,
+      "nav": 14.69,
+      "ret_pct": 10.57
+    },
+    {
+      "amfi_code": "145206",
+      "scheme_nav_name": "Tata Small Cap Fund-Direct Plan-Growth",
+      "fund_house": "Tata Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 41.55,
+      "nav": 45.75,
+      "ret_pct": 10.12
+    },
+    {
+      "amfi_code": "153196",
+      "scheme_nav_name": "Mirae Asset Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "Mirae Asset Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 11.75,
+      "nav": 12.89,
+      "ret_pct": 9.72
+    },
+    {
+      "amfi_code": "125497",
+      "scheme_nav_name": "SBI Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "SBI Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 193.77,
+      "nav": 212.53,
+      "ret_pct": 9.68
+    },
+    {
+      "amfi_code": "146196",
+      "scheme_nav_name": "Edelweiss Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "Edelweiss Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 48.9,
+      "nav": 53.11,
+      "ret_pct": 8.61
+    },
+    {
+      "amfi_code": "152107",
+      "scheme_nav_name": "QUANTUM SMALL CAP FUND - DIRECT PLAN GROWTH OPTION",
+      "fund_house": "Quantum Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 13.02,
+      "nav": 14.14,
+      "ret_pct": 8.6
+    },
+    {
+      "amfi_code": "148618",
+      "scheme_nav_name": "UTI Small Cap Fund - Direct Plan - Growth Option",
+      "fund_house": "UTI Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 27.39,
+      "nav": 29.69,
+      "ret_pct": 8.39
+    },
+    {
+      "amfi_code": "120591",
+      "scheme_nav_name": "ICICI Prudential Small Cap Fund - Direct Plan - Growth",
+      "fund_house": "ICICI Prudential Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 96.91,
+      "nav": 104.65,
+      "ret_pct": 7.99
+    },
+    {
+      "amfi_code": "118525",
+      "scheme_nav_name": "Franklin India Small Cap Fund - Direct - Growth",
+      "fund_house": "Franklin Templeton Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 186.89,
+      "nav": 201.56,
+      "ret_pct": 7.85
+    },
+    {
+      "amfi_code": "146130",
+      "scheme_nav_name": "CANARA ROBECO SMALL CAP FUND - DIRECT PLAN - GROWTH OPTION",
+      "fund_house": "Canara Robeco Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 42.69,
+      "nav": 45.48,
+      "ret_pct": 6.54
+    },
+    {
+      "amfi_code": "130503",
+      "scheme_nav_name": "HDFC Small Cap Fund - Growth Option - Direct Plan",
+      "fund_house": "HDFC Mutual Fund",
+      "category": "Small Cap Fund",
+      "nav0": 157.89,
+      "nav": 159.82,
+      "ret_pct": 1.22
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "scheme": "SBI Nifty 50 ETF",
+    "plan_code": "135106",
+    "plan": "SBI Nifty 50 ETF",
+    "nav0": 279.0987,
+    "nav": 249.4356,
+    "ytd_ret_pct": -10.63
+  },
+  {
+    "scheme": "Parag Parikh Flexi Cap Fund",
+    "plan_code": "122639",
+    "plan": "Parag Parikh Flexi Cap Fund - Direct Plan - Growth",
+    "nav0": 95.1709,
+    "nav": 89.958,
+    "ytd_ret_pct": -5.48
+  },
+  {
+    "scheme": "SBI BSE Sensex ETF",
+    "plan_code": "121109",
+    "plan": "SBI BSE SENSEX ETF",
+    "nav0": 942.8126,
+    "nav": 824.4555,
+    "ytd_ret_pct": -12.55
+  },
+  {
+    "scheme": "HDFC Flexi Cap Fund",
+    "plan_code": "118955",
+    "plan": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
+    "nav0": 2272.565,
+    "nav": 2214.572,
+    "ytd_ret_pct": -2.55
+  },
+  {
+    "scheme": "HDFC Mid Cap Fund",
+    "plan_code": "118989",
+    "plan": "HDFC Mid Cap Fund - Growth Option - Direct Plan",
+    "nav0": 224.745,
+    "nav": 226.38,
+    "ytd_ret_pct": 0.73
+  },
+  {
+    "scheme": "HDFC Balanced Advantage Fund",
+    "plan_code": "118968",
+    "plan": "HDFC Balanced Advantage Fund - Growth Plan - Direct Plan",
+    "nav0": 579.717,
+    "nav": 557.728,
+    "ytd_ret_pct": -3.79
+  },
+  {
+    "scheme": "SBI Liquid Fund",
+    "plan_code": "119800",
+    "plan": "SBI Liquid Fund - DIRECT PLAN -Growth",
+    "nav0": 4244.0853,
+    "nav": 4449.162,
+    "ytd_ret_pct": 4.83
+  },
+  {
+    "scheme": "SBI Aggressive Hybrid Fund",
+    "plan_code": "119609",
+    "plan": "SBI AGGRESIVE HYBRID FUND - DIRECT PLAN - Growth",
+    "nav0": 343.8646,
+    "nav": 344.1641,
+    "ytd_ret_pct": 0.09,
+    "note": "renamed from SBI Equity Hybrid Fund in Aug-2026; AMFI code 119609 (Jul-2026 disclosure)"
+  },
+  {
+    "scheme": "ICICI Prudential Multi-Asset Fund",
+    "plan_code": "120334",
+    "plan": "ICICI Prudential Multi Asset Allocation Fund - Direct Plan - Growth",
+    "nav0": 905.7938,
+    "nav": 884.427,
+    "ytd_ret_pct": -2.36
+  },
+  {
+    "scheme": "Nippon India Small Cap Fund",
+    "plan_code": "118778",
+    "plan": "Nippon India Small Cap Fund - Direct Plan Growth Plan - Growth Option",
+    "nav0": 187.0214,
+    "nav": 208.0154,
+    "ytd_ret_pct": 11.23
+  }
+]
